@@ -22,5 +22,4 @@ stow -t ~ -D *
 ## License
 
 [MIT](LICENSE)
-```
 
