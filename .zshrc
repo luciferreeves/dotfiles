@@ -90,3 +90,5 @@ alias mkdir='mkdir -p'
 # pokemon-colorscripts --no-title -r 1,3,6
 fastfetch
 export PATH="$HOME/.local/bin:$PATH"
+
+export PATH=$PATH:/home/kyrgis/.spicetify
