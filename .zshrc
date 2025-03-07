@@ -92,3 +92,4 @@ fastfetch
 export PATH="$HOME/.local/bin:$PATH"
 
 export PATH=$PATH:/home/kyrgis/.spicetify
+alias psql='psql -U lucifer'
